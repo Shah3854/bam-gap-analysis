@@ -61,10 +61,3 @@ To visualize the BAM files and gaps in IGV:
 4. Upload the `sample_gaps.bed` file to visualize gap regions.
 5. Inspect coverage and gaps in the genome browser.
 
-## License
-This project is licensed under the MIT License.
-
-## Author
-[Your Name]  
-[Your Contact Information]
-
